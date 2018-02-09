@@ -26,10 +26,10 @@ Hello, these whole projects are maintained by Lea Chung.
 - GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Classic_Arcade_Game_Clone" target="_blank">Portfolio/Classic_Arcade_Game_Clone/</a>
 - Description: In this project, I built my own arcade game like Frogger Game. I was given an <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" target="_blank">art assets and a game loop engine</a>. Then, using these tools, I added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
-## 5. <a href="https://leachung.github.io/FeedReaderTesting/" target="_blank">Feed Reader Testing</a>
+## 5. <a href="https://leachung.github.io/Feed_Reader_Testing/" target="_blank">Feed Reader Testing</a>
 - Key Points: **HTML, JavaScript, jQuery, JasmineJS**
-- GitHub folder: <a href="https://github.com/leachung/FeedReaderTesting" target="_blank">Feed_Reader_Testing/</a>
-- Description: In this project, I was given a web-based application (<a href="https://leachung.github.io/FeedReader-Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leachung/FeedReader-Testing/blob/master/before/jasmine/spec/feedreader_B4.js" target="_blank">feedreader.js</a>) that reads RSS feeds. The application had an incomplete test suite. I completed and tested the suite using jasmine as a behaviour-driven development framework.
+- GitHub folder: <a href="https://github.com/leachung/Feed_Reader_Testing" target="_blank">leachung/Feed_Reader_Testing/</a>
+- Description: In this project, I was given a web-based application (<a href="https://leachung.github.io/Feed_Reader_Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leachung/Feed_Reader_Testing/blob/master/before/jasmine/spec/feedreader_B4.js" target="_blank">feedreader.js</a>) that reads RSS feeds. The application had an incomplete test suite. I completed and tested the suite using jasmine as a behaviour-driven development framework.
 
 ## 6. <a href="https://leachung.github.io/Portfolio/Find_your_Future_Home/index.html" target="_blank">Find your Future Home</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Google Maps API**
