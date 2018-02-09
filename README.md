@@ -16,9 +16,9 @@ Hello, these whole projects are maintained by Lea Chung.
 - GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Online_Resume/" target="_blank">Portfolio/Online_Resume/</a>
 - Description: For this project, I built my resume by writing <a href="https://leachung.github.io/Portfolio/Online_Resume/before/resumeBuilder_B4.js" target="_blank">resumeBuilder.js</a> JavaScript file that combined my personal information with pre-written <a href="https://leachung.github.io/Portfolio/Online_Resume/before/index_B4.html" target="_blank">index.html</a> and <a href="https://leachung.github.io/Portfolio/Online_Resume/before/style_B4.css" target="_blank">style.css</a> templates to generate my resume.
 
-## 3. <a href="https://leachung.github.io/WebOptimization/" target="_blank">Website Optimization</a>
+## 3. <a href="https://leachung.github.io/Web_Optimization/" target="_blank">Website Optimization</a>
 - Key Points: **HTML, CSS, JavaScript, Grunt, ngrok, json, Google Page Speed Insights, Chrome Developer Tools**
-- GitHub folder: <a href="https://github.com/leachung/WebOptimization" target="_blank">leachung/Web-Optimization</a>
+- GitHub folder: <a href="https://github.com/leachung/WebOptimization" target="_blank">leachung/Web_Optimization</a>
 - Description: In this project, I optimized a <a href="https://github.com/udacity/frontend-nanodegree-mobile-portfolio" target="_blank">provided website</a> with a number of optimization and performance related issues so that it achieved a target PageSpeed score of at least 90 for index.html both Mobile and Desktop version and runs at 60 frames per second.
 
 ## 4. <a href="https://leachung.github.io/Portfolio/Classic_Arcade_Game_Clone/index.html" target="_blank">Classic Arcade Game Clone</a>
