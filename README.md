@@ -31,40 +31,40 @@ Hello, these whole projects are maintained by Lea Chung.
 - GitHub folder: <a href="https://github.com/leachung/FeedReaderTesting" target="_blank">Feed_Reader_Testing/</a>
 - Description: In this project, I was given a web-based application (<a href="https://leachung.github.io/FeedReader-Testing/before/index_B4.html" target="_blank">index.html</a> and <a href="https://github.com/leachung/FeedReader-Testing/blob/master/before/jasmine/spec/feedreader_B4.js" target="_blank">feedreader.js</a>) that reads RSS feeds. The application had an incomplete test suite. I completed and tested the suite using jasmine as a behaviour-driven development framework.
 
-## 6. <a href="https://leachung.github.io/Portfolio/Reloadless_Music_App/index.html" target="_blank">Reloadless Music App</a>
-- Key Points: **HTML, CSS, JavaScript, jQuery**
-- GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Reloadless_Music_App/" target="_blank">Portfolio/Reloadless_Music_App/</a>
-- Description: I practiced JavaScript skills to make a music app that doesn't need to reload the music between pages.
-
-## 7. <a href="https://leachung.github.io/Portfolio/Templated_Visualize/index.html" target="_blank">Templated Visualize</a>
-- Key Points: **HTML, CSS, JavaScript, jQuery**
-- GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Templated_Visualize/" target="_blank">Portfolio/Templated_Visualize/</a>
-- Description: This is practice on a responsive site for an image gallery. It refers <a href="https://templated.co/visualize" target="_blank">Templated</a>
-
-## 8. <a href="https://leachung.github.io/Portfolio/Parallax/index.html" target="_blank">Parallax</a>
-- Key Points: **HTML, CSS**
-- GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Parallax/" target="_blank">Portfolio/Parallax/</a>
-- Description: This is practice on a parallax site. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. I referred <a href="https://codepen.io/egoing/pen/yaKvPd?editors=1100" target="_blank">before parallax scrolling design</a>. I used css features: background and transform.
-
-## 9. <a href="https://leachung.github.io/Portfolio/Random_Background_Image/index.html" target="_blank">Random Background Image</a>
-- Key Points: **HTML, CSS**
-- GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Random_Background_Image" target="_blank">Portfolio/Random_Background_Image/</a>
-- Description: This is practice on a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as background source.
-
-## 10. <a href="https://leachung.github.io/Portfolio/Find_your_Future_Home/index.html" target="_blank">Find your Future Home</a>
+## 6. <a href="https://leachung.github.io/Portfolio/Find_your_Future_Home/index.html" target="_blank">Find your Future Home</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Google Maps API**
 - GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Find_your_Future_Home/" target="_blank">Portfolio/Find_your_Future_Home/</a>
 - Description: This is a single-page application featuring real estate finder. I used Google Maps API functions to develop this application.
 
-## 11. <a href="https://leachung.github.io/Portfolio/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
+## 7. <a href="https://leachung.github.io/Portfolio/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, MVO pattern**
 - GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Cat_Clicker/" target="_blank">Portfolio/Cat_Clicker/</a>
 - Description: This project consists of 5 versions of cat clicker. It is a simple application that counts the cat's clicks when you clicks a cat. Also, It saves click counts and shows in the application.
 
-## 12. <a href="https://leachung.github.io/Portfolio/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
+## 8. <a href="https://leachung.github.io/Portfolio/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Key Points: **HTML, CSS, Grunt, Responsive web**
 - GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Build_a_Portfolio_Site/" target="_blank">Portfolio/Build_a_Portfolio_Site/</a>
 - Description: For this project, I built a portfolio website. I was given a <a href="https://leachung.github.io/Portfolio/Build_a_Portfolio_Site/before/design-mockup-portfolio.pdf" target="_blank">design mock-up</a> as a PDF file, and replicated that design in HTML and CSS. I developed a responsive website that displays images, descriptions and links to each of the portfolio projects.
+
+## 9. <a href="https://leachung.github.io/Portfolio/Reloadless_Music_App/index.html" target="_blank">Reloadless Music App</a>
+- Key Points: **HTML, CSS, JavaScript, jQuery**
+- GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Reloadless_Music_App/" target="_blank">Portfolio/Reloadless_Music_App/</a>
+- Description: I practiced JavaScript skills to make a music app that doesn't need to reload the music between pages.
+
+## 10. <a href="https://leachung.github.io/Portfolio/Templated_Visualize/index.html" target="_blank">Templated Visualize</a>
+- Key Points: **HTML, CSS, JavaScript, jQuery**
+- GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Templated_Visualize/" target="_blank">Portfolio/Templated_Visualize/</a>
+- Description: This is practice on a responsive site for an image gallery. It refers <a href="https://templated.co/visualize" target="_blank">Templated</a>
+
+## 11. <a href="https://leachung.github.io/Portfolio/Parallax/index.html" target="_blank">Parallax</a>
+- Key Points: **HTML, CSS**
+- GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Parallax/" target="_blank">Portfolio/Parallax/</a>
+- Description: This is practice on a parallax site. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. I referred <a href="https://codepen.io/egoing/pen/yaKvPd?editors=1100" target="_blank">before parallax scrolling design</a>. I used css features: background and transform.
+
+## 12. <a href="https://leachung.github.io/Portfolio/Random_Background_Image/index.html" target="_blank">Random Background Image</a>
+- Key Points: **HTML, CSS**
+- GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Random_Background_Image" target="_blank">Portfolio/Random_Background_Image/</a>
+- Description: This is practice on a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as background source.
 
 ## 13. <a href="https://leachung.github.io/Portfolio/Todo_App/index.html" target="_blank">Todo App</a>
 - Key Points: **HTML, JavaScript, BackboneJS, MVC pattern**
