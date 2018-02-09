@@ -18,7 +18,7 @@ Hello, these whole projects are maintained by Lea Chung.
 
 ## 3. <a href="https://leachung.github.io/Web_Optimization/" target="_blank">Website Optimization</a>
 - Key Points: **HTML, CSS, JavaScript, Grunt, ngrok, json, Google Page Speed Insights, Chrome Developer Tools**
-- GitHub folder: <a href="https://github.com/leachung/WebOptimization" target="_blank">leachung/Web_Optimization</a>
+- GitHub folder: <a href="https://github.com/leachung/Web_Optimization" target="_blank">leachung/Web_Optimization</a>
 - Description: In this project, I optimized a <a href="https://github.com/udacity/frontend-nanodegree-mobile-portfolio" target="_blank">provided website</a> with a number of optimization and performance related issues so that it achieved a target PageSpeed score of at least 90 for index.html both Mobile and Desktop version and runs at 60 frames per second.
 
 ## 4. <a href="https://leachung.github.io/Portfolio/Classic_Arcade_Game_Clone/index.html" target="_blank">Classic Arcade Game Clone</a>
