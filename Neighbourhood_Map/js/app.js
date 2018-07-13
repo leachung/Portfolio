@@ -101,17 +101,17 @@ var viewModel = function() {
         infoWindow.open(map, marker);
         // Make a content for infowindow from FourSquare
         infoWindow.setContent(
-          // '<div class="infowindow">' +
-          // '<h2><span>' + marker.name + '</span></h2>' +
-          // '<ul><li class="info-li">Rating: ' + results.response.groups[0].items[0].venue.rating + '</li>' +
-          // '<li class="info-li">Phone: ' + results.response.groups[0].items[0].venue.contact.formattedPhone + '</li>' +
-          // '<li class="info-li">Address: ' + results.response.groups[0].items[0].venue.location.address + '</li>' +
-          // '<li class="info-li">URL: <a class="info-a" href=' + results.response.groups[0].items[0].venue.url + '>' +
-          // results.response.groups[0].items[0].venue.url + '</a></ul></div>');
           '<div class="infowindow">' +
           '<h2><span>' + marker.name + '</span></h2>' +
+          '<ul><li class="info-li">Rating: ' + results.response.groups[0].items[0].venue.rating + '</li>' +
+          '<li class="info-li">Phone: ' + results.response.groups[0].items[0].venue.contact.formattedPhone + '</li>' +
           '<li class="info-li">Address: ' + results.response.groups[0].items[0].venue.location.address + '</li>' +
+          '<li class="info-li">URL: <a class="info-a" href=' + results.response.groups[0].items[0].venue.url + '>' +
           results.response.groups[0].items[0].venue.url + '</a></ul></div>');
+          // '<div class="infowindow">' +
+          // '<h2><span>' + marker.name + '</span></h2>' +
+          // '<li class="info-li">Address: ' + results.response.groups[0].items[0].venue.location.address + '</li>' +
+          // results.response.groups[0].items[0].venue.url + '</a></ul></div>');
           clearTimeout(forsquareRequestTimeOut);
         },
       error: function () {
