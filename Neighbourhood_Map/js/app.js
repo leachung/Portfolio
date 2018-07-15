@@ -20,7 +20,7 @@ var map;
 var initMap = function() {
   //Create a google map object.
   map = new google.maps.Map(document.getElementById('map'),{
-    center: {lat: 43.684037, lng: -79.36474},
+    center: {lat: 43.706431, lng: -79.398642},
     zoom: 12,
     styles: styles,
     mapTypeControl: false
