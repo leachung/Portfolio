@@ -2,7 +2,6 @@
 var locationList = [
   {name: 'Yorkdale Shopping Centre', location: {lat: 43.725422, lng: -79.452106}},
   {name: 'Casa Loma', location: {lat: 43.678066, lng: -79.409426}},
-  {name: 'IKEA Etobicoke', location: {lat:  43.61864, lng: -79.534625}},
   {name: 'Rooster Coffee House', location: {lat: 43.669105, lng: -79.352863}},
   {name: 'TIFF Bell Lightbox', location: {lat:  43.646622, lng: -79.390332}}
 ];
