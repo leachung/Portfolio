@@ -1,10 +1,38 @@
 // Make a data locations in Toronto Neighbourhood.
 var locationList = [
-  {name: 'Yorkdale Shopping Centre', location: {lat: 43.725422, lng: -79.452106}},
-  {name: 'Casa Loma', location: {lat: 43.678066, lng: -79.409426}},
-  {name: 'Rooster Coffee House', location: {lat: 43.669105, lng: -79.352863}},
-  {name: 'TIFF Bell Lightbox', location: {lat:  43.646622, lng: -79.390332}}
-];
+    {
+      name: 'Yorkdale Shopping Centre',
+      location: {lat: 43.725422, lng: -79.452106}
+  },
+    {
+      name: 'Casa Loma',
+      location: {lat: 43.678066, lng: -79.409426}
+  },
+    {
+      name: 'High Park',
+      location: {lat:  43.646548, lng: -79.46369}
+  },
+    {
+      name: 'Rooster Coffee House',
+      location: {lat: 43.669105, lng: -79.352863}
+  },
+    {
+      name: 'TIFF Bell Lightbox',
+      location: {lat:  43.646622, lng: -79.390332}
+  },
+    {
+      name: 'Toronto Islands',
+      location: {lat:  43.628947, lng: -79.39442}
+  },
+    {
+      name: 'Pizzeria Libretto',
+      location: {lat:  43.648945, lng: -79.42037}
+  },
+    {
+      name: 'Ontario Science Centre',
+      location: {lat:  43.716407, lng: -79.339184}
+  }
+  ];
 
 // Make location class and bindings with data.
 var Location = function (item) {
