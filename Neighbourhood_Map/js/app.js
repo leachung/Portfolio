@@ -115,8 +115,8 @@ var viewModel = function() {
       // Call foursquare api using my client_id and secret key.
       data: {
         client_id: '1IWMXUIXTP41LS222SE03WYUA5UV2J5UJ24JOYOYZWGIQRDQ',
-        client_secret: 'O0YNHGTZBKPFJK3LLGCIQ3EEZ4LJRWPHUKMQCH4DGQLOXWFK',
-        v: '20170801',
+        client_secret: 'ZJKSMIOYXVA554UGHWQSDVLUWMILL20LNI1KINPGRUVHFG20',
+        v: '20180323',
 
         limit: 1,
         ll: marker.position.lat() + ',' + marker.position.lng(),
