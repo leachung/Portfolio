@@ -38,7 +38,7 @@ Hello, these whole projects are maintained by Lea Chung.
 
 ## 7. <a href="https://leachung.github.io/portfolio/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, MVO pattern**
-- GitHub folder: <a href="https://github.com/leachung/portfolio/tree/master/Cat_Clicker/" target="_blank">Portfolio/Cat_Clicker/</a>
+- GitHub folder: <a href="https://github.com/leachung/portfolio/tree/master/Cat_Clicker/" target="_blank">portfolio/Cat_Clicker/</a>
 - Description: This project consists of 5 versions of cat clicker. It is a simple application that counts the cat's clicks when you clicks a cat. Also, It saves click counts and shows in the application.
 
 ## 8. <a href="https://leachung.github.io/portfolio/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
@@ -48,7 +48,7 @@ Hello, these whole projects are maintained by Lea Chung.
 
 ## 9. <a href="https://leachung.github.io/portfolio/Reloadless_Music_App/index.html" target="_blank">Reloadless Music App</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery**
-- GitHub folder: <a href="https://github.com/leachung/portfolio/tree/master/Reloadless_Music_App/" target="_blank">Portfolio/Reloadless_Music_App/</a>
+- GitHub folder: <a href="https://github.com/leachung/portfolio/tree/master/Reloadless_Music_App/" target="_blank">portfolio/Reloadless_Music_App/</a>
 - Description: I practiced JavaScript skills to make a music app that doesn't need to reload the music between pages.
 
 ## 10. <a href="https://leachung.github.io/portfolio/Templated_Visualize/index.html" target="_blank">Templated Visualize</a>
