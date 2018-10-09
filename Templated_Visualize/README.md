@@ -11,10 +11,10 @@ HTML, CSS, JavaScript, jQuery
 ## Installation
 
 1. You can download the repository from
-[Portfolio/Templated_Visualize/](https://github.com/leachung/Portfolio/tree/master/Templated_Visualize/).
+[portfolio/Templated_Visualize/](https://github.com/leachung/portfolio/tree/master/Templated_Visualize/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Templated Visualize](https://leachung.github.io/Portfolio/Templated_Visualize/index.html).*
+*Or you can connect to the application via online here [Templated Visualize](https://leachung.github.io/portfolio/Templated_Visualize/index.html).*
 
 ## How to use?
 
