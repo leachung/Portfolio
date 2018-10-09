@@ -11,7 +11,7 @@ HTML, CSS, JavaScript, jQuery
 ## Installation
 
 1. You can download the repository from
-[Portfolio/Reloadless_Music_App/](https://github.com/leachung/Portfolio/tree/master/Reloadless_Music_App/).
+[portfolio/Reloadless_Music_App/](https://github.com/leachung/portfolio/tree/master/Reloadless_Music_App/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
 *Or you can connect to the application via online here [Reloadless Music App](https://leachung.github.io/portfolio/Reloadless_Music_App/index.html).*
