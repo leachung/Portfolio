@@ -11,10 +11,10 @@ HTML, CSS
 ## Installation
 
 1. You can download the repository from
-[Portfolio/Random_Background_Image/](https://github.com/leachung/Portfolio/tree/master/Random_Background_Image/).
+[portfolio/Random_Background_Image/](https://github.com/leachung/portfolio/tree/master/Random_Background_Image/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Random Background Image](https://leachung.github.io/Portfolio/Random_Background_Image/index.html).*
+*Or you can connect to the application via online here [Random Background Image](https://leachung.github.io/portfolio/Random_Background_Image/index.html).*
 
 ## How to use?
 
