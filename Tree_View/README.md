@@ -14,7 +14,7 @@ HTML, CSS
 [prePF/Tree_View/](https://github.com/leiachung41/prePF/tree/master/Tree_View/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Tree View](https://leiachung41.github.io/prePF/Tree_View/index.html).*
+*Or you can connect to the application via online here [Tree View](https://leachung.github.io/portfolio/Tree_View/index.html).*
 
 ## How to use?
 
