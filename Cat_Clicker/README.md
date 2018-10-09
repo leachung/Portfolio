@@ -16,7 +16,7 @@ HTML, CSS, JavaScript, jQuery, MVO pattern
 ## Installation
 
 1. You can download the repository from
-[Portfolio/Cat_Clicker/](https://github.com/leachung/Portfolio/tree/master/Cat_Clicker/).
+[portfolio/Cat_Clicker/](https://github.com/leachung/portfolio/tree/master/Cat_Clicker/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
 *Or you can connect to the application via online here [Cat Clicker](https://leachung.github.io/portfolio/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html).*
