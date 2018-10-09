@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a responsive web for a Toronto hometown app as a result of practice like this [index.html](https://leachung.github.io/Portfolio/Building_the_Hometown_App/before/index_B4.html). The app consists of top news, latest news, sports and weather sections. I used css media queries feature for responsive web.
+This is a responsive web for a Toronto hometown app as a result of practice like this [index.html](https://leachung.github.io/portfolio/Building_the_Hometown_App/before/index_B4.html). The app consists of top news, latest news, sports and weather sections. I used css media queries feature for responsive web.
 
 ## Built with
 
@@ -11,10 +11,10 @@ HTML, CSS, JavaScript, jQuery, Grunt, Responsive web
 ## Installation
 
 1. You can download the repository from
-[Portfolio/Building_the_Hometown_App/](https://github.com/leachung/Portfolio/tree/master/Building_the_Hometown_App/).
+[portfolio/Building_the_Hometown_App/](https://github.com/leachung/portfolio/tree/master/Building_the_Hometown_App/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Building the Hometown App](https://leachung.github.io/Portfolio/Building_the_Hometown_App/index.html).*
+*Or you can connect to the application via online here [Building the Hometown App](https://leachung.github.io/portfolio/Building_the_Hometown_App/index.html).*
 
 ## How to use?
 
