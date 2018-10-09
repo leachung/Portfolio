@@ -10,10 +10,10 @@ HTML, JavaScript, BackboneJS, MVC pattern
 ## Installation
 
 1. You can download the repository from
-[Portfolio/Todo_App/](https://github.com/leachung/Portfolio/tree/master/Todo_App/).
+[portfolio/Todo_App/](https://github.com/leachung/portfolio/tree/master/Todo_App/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Todo App](https://leachung.github.io/Portfolio/Todo_App/index.html).*
+*Or you can connect to the application via online here [Todo App](https://leachung.github.io/portfolio/Todo_App/index.html).*
 
 ## How to use?
 
