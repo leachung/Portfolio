@@ -11,10 +11,10 @@ HTML, JavaScript, Mo.js
 ## Installation
 
 1. You can download the repository from
-[Portfolio/Mojs/](https://github.com/leachung/Portfolio/tree/master/Mojs/).
+[portfolio/Mojs/](https://github.com/leachung/portfolio/tree/master/Mojs/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Mo.js](https://leachung.github.io/Portfolio/Mojs/index.html).*
+*Or you can connect to the application via online here [Mo.js](https://leachung.github.io/portfolio/Mojs/index.html).*
 
 ## How to use?
 
