@@ -19,7 +19,7 @@ HTML, CSS, JavaScript, jQuery, MVO pattern
 [Portfolio/Cat_Clicker/](https://github.com/leachung/Portfolio/tree/master/Cat_Clicker/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Cat Clicker](https://leachung.github.io/Portfolio/Cat_Clicker/index.html).*
+*Or you can connect to the application via online here [Cat Clicker](https://leachung.github.io/portfolio/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html).*
 
 ## How to use?
   - Cat Clicker V1: There is one cat and it can counts how many times you clicked.
