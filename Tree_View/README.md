@@ -11,7 +11,7 @@ HTML, CSS
 ## Installation
 
 1. You can download the repository from
-[prePF/Tree_View/](https://github.com/leiachung41/prePF/tree/master/Tree_View/).
+[portfolio/Tree_View/](https://github.com/leachung/portfolio/blob/master/Tree_View/README.md).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
 *Or you can connect to the application via online here [Tree View](https://leachung.github.io/portfolio/Tree_View/index.html).*
