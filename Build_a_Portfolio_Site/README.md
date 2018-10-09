@@ -14,7 +14,7 @@ HTML, CSS, Grunt, Responsive web
 [Portfolio/Build_a_Portfolio_Site/](https://github.com/leachung/Portfolio/tree/master/Build_a_Portfolio_Site/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
-*Or you can connect to the application via online here [Build a Portfolio Site](https://leachung.github.io/Portfolio/Build_a_Portfolio_Site/index.html).*
+*Or you can connect to the application via online here [Build a Portfolio Site](https://leachung.github.io/portfolio/Build_a_Portfolio_Site/index.html).*
 
 ## How to use?
 
