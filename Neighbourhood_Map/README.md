@@ -23,7 +23,7 @@ I will develop a single-page application featuring a map of my neighbourhood or 
 - All information about my locations are from FourSquare.
 
 ## How to download the Application
-1. You can download the repository from [here](https://github.com/leachung/Neighbourhood_Map).
+1. You can download the repository from [here](https://github.com/leachung/portfolio/Neighbourhood_Map/).
 2. Find a index.html file in the repository, and open the index.html file in a browser.
 
 *Or you can connect to the application via online [https://leachung.github.io/portfolio/Neighbourhood_Map](https://leachung.github.io/portfolio/Neighbourhood_Map).*
